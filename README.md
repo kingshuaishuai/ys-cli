@@ -3,11 +3,11 @@
 ## install
 
 ```
-yarn add -g ys-cli
+yarn add -g ysc-cli
 ```
 or
 ```
-npm install -g ys-cli
+npm install -g ysc-cli
 ```
 
 ## usage
