@@ -1,5 +1,5 @@
 {
-  "name": "ys-cli",
+  "name": "ysc-cli",
   "version": "0.1.0",
   "description": "个人通用项目脚手架工具,包含通用ts项目与通用es6项目",
   "main": "/bin/ysc.js",
