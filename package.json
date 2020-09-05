@@ -1,0 +1,21 @@
+{
+  "name": "ys-cli",
+  "version": "0.1.0",
+  "description": "个人通用项目脚手架工具,包含通用ts项目与通用es6项目",
+  "main": "/bin/ysc.js",
+  "repository": "git@github.com:kingshuaishuai/ys-cli.git",
+  "author": "kingshuaishuai",
+  "scripts": {},
+  "bin": {
+    "ysc": "./bin/ysc.js"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.1.0",
+    "ejs": "^3.1.5",
+    "fs-extra": "^9.0.1",
+    "log-symbols": "^4.0.0"
+  }
+}
